@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Hidrovales</title>
+        <title>Grupo de Pesquisa</title>
         <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v5.15.3/js/all.js" crossorigin="anonymous"></script>
@@ -19,18 +19,16 @@
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
             <a class="navbar-brand js-scroll-trigger" href="#page-top">
-                <span class="d-block d-lg-none">Clarence Taylor</span>
+                <span class="d-block d-lg-none">Hidrovales</span>
                 <span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="https://github.com/Hidrovales/Balanco_Hidrico/blob/main/Figuras/logo_color_vertical_big.png?raw=true" alt="..." /></span>
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav">
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">Sobre</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Projetos</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Colaboradores</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Participação de eventos</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Interesses</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Publicações</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#sobre">Sobre</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#colaboradores">Colaboradores</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#projetos">Projetos</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#publicacoes">Publicações</a></li>
                 </ul>
             </div>
         </nav>
@@ -41,13 +39,15 @@
                 <div class="resume-section-content">
                     <h1 class="mb-0">
                         Hidrovales
-                        <span class="text-primary">grupo de pesquisa</span>
+                        <span class="text-primary">Hidrovales</span>
                     </h1>
                     <div class="subheading mb-5">
-                        Salinas · IFNMG, (38) 38417000 ·
-                        <a href="mailto:name@email.com">name@email.com</a>
+                        IFNMG - campus Salinas · Rod. Salinas - Taiobeiras Km 2 · CEP 39560-000 · Salinas - MG / Brasil, (38) 38417000 ·
+                        <a href="mailto:name@email.com">hidrovales@gmail.com</a>
                     </div>
-                    <p class="lead mb-5">Nós trabalhamos com...</p>
+                    <p class="lead mb-5">O GRUPO DE PESQUISA EM RECURSOS HÍDRICOS E AMBIENTAIS DO NORTE DE MINAS (HIDROVALES) surgiu em virtude da elevada demanda de alunos do ensino médio e superior para a orientação em projetos de pesquisa, extensão e estágios. Também serviu como estímulo, à criação, a carência por tecnologias e pesquisas aplicadas às condições dos vales do Jequitinhonha, Rio Pardo, Mucuri e São Francisco, áreas de abrangência do pelo IFNMG.
+                        
+Inicialmente o HIDRO VALES foi formado pelos Professores Marcelo Rossi Vicente, Ronaldo Medeiros dos Santos, Vinicius Orlandi Barbosa Lima e Eduardo Roman Albuquerque (in memoriam). Hoje conta com a participação de outros professores e pesquisadores, além da participação de estudantes de engenharia florestal, medicina veterinária, técnicos em agropecuária e informática.</p>
                     <div class="social-icons">
                         <a class="social-icon" href="#!"><i class="fab fa-linkedin-in"></i></a>
                         <a class="social-icon" href="#!"><i class="fab fa-github"></i></a>
