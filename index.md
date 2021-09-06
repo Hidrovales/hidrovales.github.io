@@ -20,7 +20,7 @@
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
             <a class="navbar-brand js-scroll-trigger" href="#page-top">
                 <span class="d-block d-lg-none">Hidrovales</span>
-                <span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="https://github.com/Hidrovales/Balanco_Hidrico/blob/main/Figuras/logo_color_vertical_big.png?raw=true" alt="..." /></span>
+                <span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="https://github.com/Hidrovales/hidrovales.github.io/blob/main/Logos/logo_color_vertical_big.png?raw=true" alt="..." /></span>
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
@@ -45,29 +45,32 @@
                         IFNMG - campus Salinas · Rod. Salinas - Taiobeiras Km 2 · CEP 39560-000 · Salinas - MG / Brasil, (38) 38417000 ·
                         <a href="mailto:name@email.com">hidrovales@gmail.com</a>
                     </div>
-                    <p class="lead mb-5">O GRUPO DE PESQUISA EM RECURSOS HÍDRICOS E AMBIENTAIS DO NORTE DE MINAS (HIDROVALES) surgiu em virtude da elevada demanda de alunos do ensino médio e superior para a orientação em projetos de pesquisa, extensão e estágios. Também serviu como estímulo, à criação, a carência por tecnologias e pesquisas aplicadas às condições dos vales do Jequitinhonha, Rio Pardo, Mucuri e São Francisco, áreas de abrangência do pelo IFNMG.
+                    <p class="lead mb-5"> 
+                        
+                   O GRUPO DE PESQUISA EM RECURSOS HÍDRICOS E AMBIENTAIS DO NORTE DE MINAS (HIDROVALES) surgiu em virtude da elevada demanda de alunos do ensino médio e superior para a orientação em projetos de pesquisa, extensão e estágios. Também serviu como estímulo, à criação, a carência por tecnologias e pesquisas aplicadas às condições dos vales do Jequitinhonha, Rio Pardo, Mucuri e São Francisco, áreas de abrangência do pelo IFNMG.
                         
 Inicialmente o HIDRO VALES foi formado pelos Professores Marcelo Rossi Vicente, Ronaldo Medeiros dos Santos, Vinicius Orlandi Barbosa Lima e Eduardo Roman Albuquerque (in memoriam). Hoje conta com a participação de outros professores e pesquisadores, além da participação de estudantes de engenharia florestal, medicina veterinária, técnicos em agropecuária e informática.</p>
+                    
                     <div class="social-icons">
                         <a class="social-icon" href="#!"><i class="fab fa-linkedin-in"></i></a>
                         <a class="social-icon" href="#!"><i class="fab fa-github"></i></a>
-                        <a class="social-icon" href="#!"><i class="fab fa-twitter"></i></a>
-                        <a class="social-icon" href="#!"><i class="fab fa-facebook-f"></i></a>
                     </div>
                 </div>
             </section>
             <hr class="m-0" />
-            <!-- Experience-->
+            <!-- Colaboradores-->
             <section class="resume-section" id="experience">
                 <div class="resume-section-content">
-                    <h2 class="mb-5">Experience</h2>
+                    <h2 class="mb-5">Colaboradores</h2>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Senior Web Developer</h3>
-                            <div class="subheading mb-3">Intelitec Solutions</div>
-                            <p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>
+                            <h3 class="mb-0">Coordenador</h3>
+                            <div class="subheading mb-3">Professor do IFNMG - Campus Salinas</div>
+                            <p>Engenheiro Agrônomo.</p>
+                            <p>Doutor em Engenharia Agrícola (Recursos Hídricos e Ambientais). </p>
+                            <p>E-mail: marcelo.vicente@ifnmg.edu.br</p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">March 2013 - Present</span></div>
+                        <div class="flex-shrink-0"><span class="text-primary">Março 2013 - Presente</span></div>
                     </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
